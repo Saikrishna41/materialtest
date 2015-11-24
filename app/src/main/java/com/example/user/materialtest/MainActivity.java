@@ -13,6 +13,6 @@ private Toolbar toolbar;
         setContentView(R.layout.activity_main);
         toolbar = (Toolbar)findViewById(R.id.app_bar);
         setSupportActionBar(toolbar);
-        System.out.println("i have added a new line");
+       // System.out.println("i have added a new line");
     }
 }
